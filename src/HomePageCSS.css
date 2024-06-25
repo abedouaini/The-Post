@@ -1,0 +1,114 @@
+html{
+    background-color: rgb(208, 234, 243);
+  }
+  label{
+    font-size: 15px;
+  }
+  div.InnerBody{
+    background-color:white;
+    margin : 10% 10%;
+    outline: 10px black;
+    padding: 10%;
+    position: relative;
+    left: 15;
+    border-radius: 10px;
+  }
+  div.names1{
+    display: inline-block;
+  }
+  div.names1 input{
+    display: inline-block;
+    margin: 5% 5%;
+    position: relative;
+    padding: 10px;
+  }
+  div.names1 label{
+    position: relative;
+    display: inline-block;
+    left: 5%;
+  }
+  div.names2{
+    display: inline-block;
+  }
+  div.names2 input{
+    display: inline-block;
+    margin: 5% 5%;
+    position: relative;
+    padding: 10px;
+  }
+  div.names2 label{
+    position: relative;
+    display: inline-block;
+    left : 5%;
+  }
+  div.mail input{
+    display: inline-block;
+    margin: 5% 5%;
+    position: relative;
+    padding: 10px;
+  }
+  div.mail{
+    display: inline-block;
+  }
+  div.mail label{
+    position: relative;
+    display: inline-block;
+    left : 5%;
+  }
+  div.options div{
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 5% 5%;
+    border-radius: 9px;
+    outline: 2px solid black;
+    position: relative;
+  }
+  .submit{
+    display: block;
+    margin: 10% 10%;
+  }
+  div.options p{
+    position: relative;
+    left : 5%;
+  }
+  label.labe{
+    display: block;
+    position: relative;
+    left : 5%;
+  }
+  input.Message{
+    display: inline-block;
+  }
+  h1{
+    position: relative;
+    outline : auto solid black;
+    left: 5%;
+    top: 15px;
+  }
+  div.button {
+    border: 20px solid black;
+    padding: 10px;
+  }
+  textarea {
+    display: inline-block;
+    text-align: left;
+    padding: 20% 5%;
+    margin: 5% 5%;
+    position: relative;
+  }
+  a{
+    display: inline-block;
+    position: relative;
+    color:black;
+    text-decoration: none;
+    padding: 1% 1%;
+    border-radius: 9px;
+    left:6%;
+    background-color: white;
+    outline: 2px white solid;
+  }
+  a:hover{
+    outline:none;
+    background-color: black;
+    color: white;
+  }

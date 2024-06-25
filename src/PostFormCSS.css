@@ -1,0 +1,19 @@
+input{
+   width:80%; 
+}
+textarea{
+    width: 80%;
+}
+input.Submit{
+    width : 50%;
+    position: relative;
+    left:25%;
+    background-color: white;
+    border-radius: 2px;
+    transform: scale(1);
+    font-size: 80%;
+}
+input.Submit:hover{
+    background-color: black;
+    color:white;
+}
