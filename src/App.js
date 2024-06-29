@@ -9,7 +9,7 @@ return(
     <h1>The Post</h1>
     <Router>
       <Routes>
-        <Route path='/The-Post/' element={<HomePage/>}/> 
+        <Route path='/' element={<HomePage/>}/> 
         <Route path='/PostForm' element={<PostForm/>}/>
         <Route path='/EditPost/:id' element={<EditPost/>}/>
         
